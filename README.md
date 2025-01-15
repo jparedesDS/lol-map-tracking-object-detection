@@ -42,7 +42,6 @@ model.predict(
 #### Results
 ![results.png](https://cdn-uploads.huggingface.co/production/uploads/62e1c9b42e4cab6e39dafc97/U4993AuuhClKD-eETn6kN.png)
 #### Predict
-![val_batch0_labels.jpg](https://cdn-uploads.huggingface.co/production/uploads/62e1c9b42e4cab6e39dafc97/DxSk38N_EhXjHjgdy1g_8.jpeg)
 ![val_batch1_labels.jpg](https://cdn-uploads.huggingface.co/production/uploads/62e1c9b42e4cab6e39dafc97/CWsVKQ2RUx2cBhDCNMExI.jpeg)
 ![val_batch1_pred.jpg](https://cdn-uploads.huggingface.co/production/uploads/62e1c9b42e4cab6e39dafc97/Jh0WFSbpXUEGXCXozQV78.jpeg)
 ```
